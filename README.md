@@ -7,7 +7,7 @@ A Fortnite Build Archive!
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        [1.7.2](https://public.simplyblk.xyz/1.7.2.zip)|
+| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        [**1.7.2**](https://public.simplyblk.xyz/1.7.2.zip)|
 | 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://public.simplyblk.xyz/1.8.rar|
 | 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | https://public.simplyblk.xyz/1.8.1.rar|
 | 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://public.simplyblk.xyz/1.8.2.rar|
