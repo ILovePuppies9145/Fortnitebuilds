@@ -1,30 +1,8 @@
 # Fortnite Builds
-The largest Fortnite Builds Archive maintained by simplyblk. 
+A Fortnite Build Archive!
 
-## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
-
-## Usage & Other information.
-
-Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
-
-If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ support@fnbuilds.services
-
-Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
-
-If you decide to use this for a project, you must provide credit of this GitHub repo.
-
-Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
-
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
 
 # Downloads
-
-# Pre-BattleRoyale
-| Build                  	 | Date          	 | Engine Version	    |		    Download links             |
-| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://public.simplyblk.xyz/OT0.6.5.zip |
-| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
@@ -63,10 +41,10 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://public.simplyblk.xyz/4.0.zip|
-| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://public.simplyblk.xyz/4.1.zip|
+| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		Not Avalible|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		Not Avalible |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
 
 # Season 5
